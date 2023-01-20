@@ -1,7 +1,8 @@
-
-Data science enthusiast <br>
-B.Sc. in Software Engineering 
-
+ 
+ ## Data science enthusiast 👩🏻‍💻 <br>
+ B.Sc. in Software Engineering 
+ 
+ [**kaggle**](https://www.kaggle.com/rezvanrah)
 <!--
 **RezvanRah/RezvanRah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
