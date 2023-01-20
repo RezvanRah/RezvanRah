@@ -1,8 +1,9 @@
  
- ## Data science enthusiast 👩🏻‍💻 <br>
+ <h3><samp>Data science enthusiast 👩🏻‍💻 <br>
  B.Sc. in Software Engineering 
+ </samp></h3>
  
- [**kaggle**](https://www.kaggle.com/rezvanrah)
+ [**kaggle**](https://www.kaggle.com/rezvanrah) | [**Linkedin**](https://www.linkedin.com/in/rezvan-r-05a177211/)
 <!--
 **RezvanRah/RezvanRah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
