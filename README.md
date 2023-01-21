@@ -1,6 +1,5 @@
  
  <h3><samp>Data science enthusiast 👩🏻‍💻 <br>
- Interested in Biotechnology <br>
  B.Sc. in Software Engineering 
  </samp></h3>
  
